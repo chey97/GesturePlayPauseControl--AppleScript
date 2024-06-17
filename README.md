@@ -2,6 +2,8 @@
 
 This Python script allows you to play/pause media using hand gestures detected via a webcam. By checking the position of your palm, you can control the playback state of media on your macOS.
 
+![Hand Tracking Land Marks](playpause.png)
+
 ## Prerequisites
 
 - Python 3.x
