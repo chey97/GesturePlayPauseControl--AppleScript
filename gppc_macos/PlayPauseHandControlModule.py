@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import time
-import GPP_macOS.HandTrackingModule as htm
+import HandTrackingModule as htm
 import math
 import subprocess
 

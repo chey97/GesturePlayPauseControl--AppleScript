@@ -48,7 +48,7 @@ class handDetector:
         return lmlist
 
 
-def main():
+def gccpmacos():
     pTime = 0
     cTime = 0
     cap = cv2.VideoCapture(0)
@@ -74,4 +74,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    gccpmacos()
